@@ -19,4 +19,9 @@ postgres Cheatsheet
 
 ### posgres DDL commands
 
+Command | Description
+--- | --- 
+`\?` | help
+`\q` | quit psql
+
 ### posgres DML commands
