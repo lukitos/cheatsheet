@@ -1,8 +1,8 @@
-Cheatsheets
-===========
+g54 Cheatsheets
+===============
 
-List of cheatsheets
--------------------
+Q2 cheatsheets
+--------------
 
 [posgres Cheatsheet][postgres]
 
