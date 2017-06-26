@@ -5,7 +5,7 @@ postgres Cheatsheet
 
 * Type the following in command line:
 
-`brew install postgres`
+    `brew install postgres`
 
 ### posgres DDL commands
 
