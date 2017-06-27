@@ -4,4 +4,5 @@ g54 Cheatsheets
 Q2 cheatsheets
 --------------
 
-[posgres Cheatsheet](postgres.md)
+[ejs cheatsheet](ejs.md)
+[posgres cheatsheet](postgres.md)
